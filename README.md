@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Savita Verma
+# 👋 Hi there, I’m Savita Verma
 - 🌱 I’m currently learning Wev-Development and Data Science
 - Coming form non-CS background
 - Hobby: I like to write poem

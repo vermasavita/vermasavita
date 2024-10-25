@@ -1,36 +1,52 @@
-Hi 👋 My name is Savita Verma, and I'm Frontend Developer
-==========================
+# 👋 Hello! I'm Savita
 
-I am currently learning Advance Frontend Development and building real world projects. I am extremely dedicated at learning any skill and consistency and passion for my work are the key factors towards my success.
+I'm a passionate **Frontend Developer** with experience in building robust, scalable, and user-friendly web applications. My toolkit includes **React, Redux, TypeScript, Jest**, and more. I enjoy learning about **system design** and have experience with **Node.js** for backend APIs. 
 
-<a href="https://www.twitter.com/say_saver" target="_blank"><img
-src="https://img.shields.io/twitter/follow/say_saver?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.github.com/vermasavita" target="_blank"><img
-src="https://img.shields.io/github/followers/vermasavita?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+---
 
-### Skills
+### 🛠️ Tech Stack
 
-<p align="left">
-   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" />
-   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
-   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
-   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
-   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" />
+- **Frontend**: React, Redux, TypeScript, HTML, CSS, JavaScript
+- **Backend**: Node.js, Express
+- **Testing**: Jest
+- **Other Tools**: Git, System Design, Python
+
+---
+
+### 🚀 Projects
+
+Here are some of the projects I’ve worked on recently:
+
+1. **[Project Name](#)** - Brief description of the project, its tech stack, and notable features or challenges.
+2. **[Another Project](#)** - Include highlights of what you built, why it's interesting, and any specific skills you applied.
    
-</p>
+More projects and contributions are available in my [repositories](https://github.com/yourusername?tab=repositories).
 
-### Socials
+---
 
-<p align="left"> 
-   <a href="https://www.twitter.com/say_saver" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
-  <a href="https://savitaverma.hashnode.dev/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> 
-  <a href="https://www.linkedin.com/in/svitaverma" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
-</p>
+### 🌱 What I'm Learning
 
-### Badges
+I’m currently deepening my knowledge in:
+- Advanced System Design patterns for scalable web applications
+- Optimizing frontend performance and usability
+- Improving my backend skills in Node.js and Express
 
-<b>My GitHub Stats</b>
+---
 
-<a href="http://www.github.com/vermasavita"><img src="https://github-readme-stats.vercel.app/api?username=vermasavita&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="vermasavita's GitHub stats" /></a>
+### 📫 Get in Touch
 
-<a href="https://github.com/vermasavita" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vermasavita&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+- **LinkedIn**: [Your LinkedIn](#)
+- **Twitter**: [Your Twitter Handle](#)
+- **Email**: [savita@example.com](mailto:savita@example.com)
+
+---
+
+### 📈 GitHub Stats
+
+![Savita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+---
+
+Looking forward to collaborating on impactful projects and continuing to grow as a developer! 😄

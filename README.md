@@ -1,4 +1,4 @@
-Hi 👋 My name is Savita Verma
+Hi 👋 My name is Savita Verma, and I'm Frontend Developer
 ==========================
 
 I am currently learning Advance Frontend Development and building real world projects. I am extremely dedicated at learning any skill and consistency and passion for my work are the key factors towards my success.

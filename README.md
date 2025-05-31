@@ -106,5 +106,5 @@ Here are some of my recent writings that cover frontend architecture, system des
 
 ## 📫 Contact
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/svitaverma)  [![Gmail](https://img.shields.io/badge/-savita@example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:svitaverma10@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/svitaverma)  [![Gmail](https://img.shields.io/badge/-svitaverma10@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:svitaverma10@gmail.com)
 

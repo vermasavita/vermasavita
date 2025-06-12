@@ -5,15 +5,15 @@
 
 ## About Me
 
-I'm passionate frontend engineer with 3 years of experience crafting scalable, high-performance web applications. I specialize in React, Next.js, TypeScript, and modern frontend architecture, always striving to deliver clean, efficient, and maintainable code.
+I'm a frontend engineer with 3 years of experience building scalable, high-performance web applications. I specialize in React, Next.js, TypeScript, and modern frontend architecture, with a focus on writing clean, reusable, and maintainable code.
 
-I’m all about building seamless user experiences and writing code that’s scalable, reusable, and easy to maintain. I thrive in collaborative teams, enjoy problem-solving, and embrace feedback as a path to growth.
+I'm deeply committed to crafting intuitive, accessible user interfaces and delivering polished user experiences. I enjoy working in collaborative, product-focused teams and approach every challenge with a problem-solving mindset and a commitment to continuous improvement.
 
-Alongside coding, I love writing insightful technical blogs and sharing knowledge with the community. When not coding, I’m often diving into UX/UI design.
+Beyond coding, I write in depth technical blogs to share what I learn and actively contribute to the developer community. I'm also deeply interested in UX/UI design and how thoughtful design choices elevate products.
 
-My next big goal? Making a strong impact in a fast-growing tech company, building cutting-edge digital products.
+My next big goal? Making a strong impact in a fast-growing tech company, where I can help build impactful digital products and grow alongside a strong engineering team.
 
-Feel free to reach out — I’m always excited to chat about frontend, tech, or opportunities.
+Let’s connect — I’m always up for conversations about frontend, product design, or exciting new roles.
 
 
 ## 🛠️ What I'm Building

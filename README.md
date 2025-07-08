@@ -1,35 +1,36 @@
 <h1 align="center">Hi, I'm Savita 👋</h1>
-<h3 align="center">Frontend Developer | Passionate about building sleek UIs & performant and scalable web apps</h3>
+<h3 align="center">Frontend Engineer | React & Next.js Specialist | UI/UX Advocate</h3>
 
 ---
 
 ## About Me
 
-I'm a frontend engineer with 3 years of experience building scalable, high-performance web applications. I specialize in React, Next.js, TypeScript, and modern frontend architecture, with a focus on writing clean, reusable, and maintainable code.
+I'm a frontend engineer with **3 years of experience** crafting high-performance web applications. My expertise lies in architecting scalable solutions using **React, Next.js, and TypeScript** while obsessing over clean code, intuitive UX, and pixel-perfect UIs.  
 
-I'm deeply committed to crafting intuitive, accessible user interfaces and delivering polished user experiences. I enjoy working in collaborative, product-focused teams and approach every challenge with a problem-solving mindset and a commitment to continuous improvement.
+I thrive in product-driven teams where I can:  
+- Build accessible, performant interfaces  
+- Solve complex challenges with modern frontend architecture  
+- Champion maintainable code and best practices  
+- Bridge development and design (UX/UI enthusiast)
 
-Beyond coding, I write in depth technical blogs to share what I learn and actively contribute to the developer community. I'm also deeply interested in UX/UI design and how thoughtful design choices elevate products.
-
-My next big goal? Making a strong impact in a fast-growing tech company, where I can help build impactful digital products and grow alongside a strong engineering team.
+Beyond coding, I actively contribute through **[technical blogging](https://savitaverma.hashnode.dev/)** and community knowledge sharing. Currently seeking to leverage my skills in a fast-growing tech company to build impactful digital products.
 
 Let’s connect — I’m always up for conversations about frontend, product design, or exciting new roles.
 
 
-## 🛠️ What I'm Building
+## 🔥 Current Project: Full-Stack Learning Management System  
+*Building a scalable LMS platform from ground up (WIP)*  
 
-I'm currently working on a full-stack **Learning Management System** (LMS) — focusing on clean architecture, scalable role-based access, performance optimization, and smooth user experience.
+**Key Features:**  
+✅ Custom JWT authentication system  
+✅ Role-based dashboards (Student/Admin/Moderator)  
+⚡ Redis caching for performance optimization  
+📁 Media management with S3, Cloudflare  
+✨ UX-focused interface design 
 
-The project includes:
-- Custom auth with access/refresh tokens
-- Student, moderator & instructor dashboards
-- Media uploads via Cloudinary
-- Redis caching for performance
+**Stack:** React · Next.js · Node.js · MongoDB · Mongoose · Redis · Tailwind  
 
-It's still a work in progress and not public yet.
-
-
-## 🛠️ Tech Stack
+## 🛠️ Technical Toolkit  
 
 ### 💻 Frontend
 ![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -103,8 +104,13 @@ Here are some of my recent writings that cover frontend architecture, system des
 
 👉 _[See all blogs on Hashnode](https://savitaverma.hashnode.dev/)_
 
+## 💬 Let's Connect!  
+I'm always open to:  
+- Collaborating on innovative frontend projects  
+- Discussing UI/UX, React architecture, or performance optimization  
+- New engineering opportunities  
 
-## 📫 Contact
+## 📫 **Reach me at:**
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/svitaverma)  [![Gmail](https://img.shields.io/badge/-svitaverma10@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:svitaverma10@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/svitaverma)  [![Gmail](https://img.shields.io/badge/-svitaverma10@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:svitaverma10@gmail.com) [![LinkedIn](https://img.shields.io/badge/-blog-0A66C2?style=for-the-badge&logo=hashnode&logoColor=white)](savitaverma.hashnode.dev) 
 
